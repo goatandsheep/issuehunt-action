@@ -1,5 +1,9 @@
 name: Create IssueHunt comment for opened issues
-description: Automatically comment on issues to tip you through IssueHunt. 
+description: Automatically comment on issues to tip you through IssueHunt.
+author: 'Kemal Ahmed (https://github.com/goatandsheep)'
+branding:
+  icon: dollar-sign
+  color: green
 on:
   issues:
     types: [opened, reopened]
