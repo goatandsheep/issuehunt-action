@@ -1,5 +1,5 @@
 name: Create IssueHunt comment for opened issues
-description: Open source has become a job for some and you deserve to be rewarded for your time. IssueHunt is a great way to get rewarded for solving tickets.
+description: Automatically comment on issues to tip you through IssueHunt. 
 on:
   issues:
     types: [opened, reopened]
